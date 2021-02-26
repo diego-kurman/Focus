@@ -17,7 +17,7 @@ export function ExperienceBar() {
           {currentExperience} 
         </span>
       </div>
-      <span>{experienceToNextLevel} xp</span>
+      <span>{experienceToNextLevel} xp</span> 
     </header>
   )
 }
