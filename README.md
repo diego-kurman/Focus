@@ -3,7 +3,7 @@
 
 Me chamo **Diego Kurman** e esse projeto tem como objetivo melhorar minhas habilidades com React .
 
-[![Header](https://raw.githubusercontent.com/diego-kurman/diego-kurman/main/public/imagem-site.png "Header")](https://www.linkedin.com/in/diego-kurman-5a32a1176/)
+[![Header](https://github.com/diego-kurman/Focus/blob/main/public/image-site.png "Header")](https://www.linkedin.com/in/diego-kurman-5a32a1176/)
 
 
 
