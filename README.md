@@ -8,13 +8,10 @@ Me chamo **Diego Kurman** e esse projeto tem como objetivo melhorar minhas habil
 
 
 ## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=F4D03F)
+![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=React.js&logoColor=white&color=2aa9E0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F4D03F)
 ![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=BDC3C7)
-![](https://img.shields.io/badge/Data-SqlServer-informational?style=flat&logo=sqlserver.js&logoColor=white&color=BDC3C7)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=58D68D)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=F1948A)
+![](https://img.shields.io/badge/tool-Yarn-informational?style=flat&logo=Yarn.js&logoColor=white&color=BDC3C7)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=990099)
 
 
