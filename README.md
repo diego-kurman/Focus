@@ -30,7 +30,7 @@ Me chamo **Diego Kurman** e esse projeto tem como objetivo melhorar minhas habil
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+$ git clone https://github.com/diego-kurman/Focus.git 
 ```
 
 Follow the steps below
