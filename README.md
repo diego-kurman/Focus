@@ -1,4 +1,4 @@
-# Focus⚡
+# Focus
 
 
 Me chamo **Diego Kurman** e esse projeto tem como objetivo melhorar minhas habilidades com React .
@@ -24,3 +24,20 @@ Me chamo **Diego Kurman** e esse projeto tem como objetivo melhorar minhas habil
 <a href="https://github.com/diego-kurman/diego-kurman">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diego-kurman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Diego's GitHub Stats" />
 </a>
+
+## 🚀 Getting started
+
+Clone the project and access the folder
+
+```bash
+$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+```
+
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the project
+$ yarn dev
+```
